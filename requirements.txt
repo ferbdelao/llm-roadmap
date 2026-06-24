@@ -1,0 +1,14 @@
+# Dependencias sugeridas para correr los fragmentos de código de este repositorio.
+# No todos los módulos requieren todas estas librerías; revisa el encabezado
+# de cada script para ver qué necesita específicamente.
+
+numpy
+torch
+gensim
+transformers
+peft
+accelerate
+sentence-transformers
+fastapi
+uvicorn
+pydantic
